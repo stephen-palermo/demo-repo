@@ -11,3 +11,5 @@ More edits from VCS.
 Update after intedex.html.
 
 With description.
+
+Adding code for location services.
